@@ -1,7 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Manutenção de Aeronaves, ensinando na utilização do repositório digital "GitHub". 
-
+# Aprendizado por Projeto Integrado (API)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -15,95 +12,83 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-> Descrever aqui do que se trata o Projeto 
-
+A API desse semestre foi realizada com o intuito de proporcionar um maior entendimento quanto aos elementos que compoem a aeronave Emb-120 que se encontra na Fatec SJC.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
-> Possíveis status: a fazer, em progresso e concluido
+|Kick Off | 19/02/2025 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-2-SEM-012025-MAv/blob/main/Sprint%201/imagem/Apresentacao_EMB120_Sistema_Eletrico.pptx) | 
+|01 | 16/04/2025 | concluido | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-2-SEM-012025-MAv/blob/main/Sprint%201/imagem/Apresentacao_EMB120_Sistema_Eletrico_FINAL.pptx) | 
+|02|  10/06/2025| concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-2-SEM-012025-MAv/blob/main/Sprint%201/imagem/Sistemas%20eletricos%20-%20EMB%20120.pdf) | 
 
 # Equipe
->Colocar aqui uma imagem da equipe
-
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-2-SEM-012025-MAv/blob/main/Sprint%201/imagem/Grupo%20El%C3%A9trica%20-%20API.pptx.jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+Desenvolver uma análise técnica e documental do sistema elétrico da aeronave EMB-120 Brasília, incluindo levantamento de componentes, verificação do estado físico da aeronave e análise de manuais.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-2-SEM-012025-MAv/blob/main/Sprint%201/imagem/apresenta%C3%A7%C3%A3o%201.jpg" width="100%"/>
+</p>
 
 ## Sprint 2
->Colocar o vídeo da apresentação
-
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-## Sprint 3
->Colocar o vídeo da apresentação
-
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-## Apresentação final (se necessario)
-> Caso haja colocar Vídeo com a apresentação final da API
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-2-SEM-012025-MAv/blob/main/Sprint%201/imagem/apresenta%C3%A7%C3%A3o%20final.jpg" width="100%"/>
+</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui o que foi entregue em cada Sprint de froma resumida
+- Sprint 1
+  - Analise Bibliográfica
+- Sprint 2
+  - Levantamento do estado atual da aeronave 
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+- Word
+- GitHub
+- Canva
+- Brainstorm
+- CheckList
 
 # Cronograma das Sprints
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence. [(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-> Utilização do Projects no Github é opcional, podendo utilizar outras ferramentas como excel, trello, etc.
-> Cronograma deve conter as atividades realizadas para concluir cada sprint, bem como datas e quem as realizou.
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence. [(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/17)
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API-2-SEM-012025-MAv/blob/main/Sprint%201/imagem/cronograma.png" width="100%"/>
+</p>
 
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-> Colocar no quadro abaixo as competencias tecnológicas desenvolvidas
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Github | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| CheckList | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
 ## Soft Skill (saber comportamental)
-> Colocar no quadro abaixo as competencias comportamentais desenvolvidas
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Comprometimento | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Autonomia | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 
 </details>
 
@@ -111,6 +96,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Ana Beatriz| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| André Antues | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Davi Lima | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Danuza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Ramon | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
